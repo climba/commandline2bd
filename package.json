@@ -1,0 +1,18 @@
+{
+  "name": "Unsolved",
+  "version": "1.0.0",
+  "description": "**Instructions**",
+  "main": "func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "inquirer": "^1.0.2",
+    "cli-table": "^0.3.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}

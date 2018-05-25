@@ -1,2 +1,4 @@
 node_modules/
 node_modules/
+make_db.sql
+make_db_ver2.sql
